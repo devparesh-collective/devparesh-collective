@@ -31,8 +31,3 @@ Email Me 👉 ✉️ **opparesh132@gmail.com** For Collaboration/Project or Anyt
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devparesh-collective&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=devparesh-collective&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
