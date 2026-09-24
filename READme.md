@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Paresh Majhi
 **A web developer || frontant developer**
 
 Email Me 👉 ✉️ **opparesh132@gmail.com** For Collaboration/Project or Anything Else. 😊😊
